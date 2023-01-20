@@ -1,0 +1,55 @@
+MAIN
+-Auto Jump
+-Spider Climb
+-Beritone
+
+FUN
+-Herobrine Prank
+-Null Prank
+-Entity 303 Prank
+-Sister Lucy Prank
+
+SURVIVAL
+-God Mode
+-Super Speed
+-Super Jump
+-Full Craft Access
+-Creative Access
+-Max Pickup
+
+CREATIVE
+-Block Highlight
+-Builder
+
+ADVENTURE
+-Mining Access
+-Building Access
+
+MINIGAME
+-Kill Aura
+-Fast Attack
+-Auto Defend
+-Knockback
+-Scaffolding
+-Quick Bridge
+-Player ESP
+
+VISUAL
+-Xray
+-Drug Effect
+-Fire Effect
+-Water Effect
+-Poison Effect
+-Chest ESP
+-Object ESP
+-Mob ESP
+
+AUDIO
+-Custom Sounds
+-Custom Music
+-Custom Music Disks
+
+MISC
+-Mods Manager
+-Clients Manager
+-Game Manager
